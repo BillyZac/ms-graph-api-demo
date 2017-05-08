@@ -1,0 +1,13 @@
+{
+  "name": "ms-graph-api-demo",
+  "version": "1.0.0",
+  "main": "getStuff.js",
+  "scripts": {
+    "start": "node getStuff > response"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "superagent": "^3.5.2"
+  }
+}
