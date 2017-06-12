@@ -1,14 +1,16 @@
 # A brief demo of MS Graph Api
 
-A quick experiment to see if the Graph API is exposing things the [microsoft-graph-client](https://www.npmjs.com/package/@microsoft/microsoft-graph-client) JS library is not.
-
 ## Usage
-Put an authorization bearer in a `.env` file. Something like:
+Create an [app](https://apps.dev.microsoft.com).
+
+Put it's info in a `.env` file:
 
 ```
 #.env
 
-BEARER_TOKEN=Bearer blah-blah-blah
+CLIENT_ID=<client id>
+CLIENT_SECRET=<client secret>
+
 ```
 
 Then run the script:
@@ -18,10 +20,8 @@ yarn install
 yarn start
 ```
 
-This calls the MS Graph API, gets all your events, and throws them in a file called `response`.
+This hits the [MS Graph API](https://developer.microsoft.com/en-us/graph/graph-explorer) and gets some resources and dumps the response into a file called `response`.
 
-`microsoft-graph-client` does not seem to give the correct event `subject`. Let's see if the raw Graph API does better:
-
-```
-grep subject response
-```
+## Resources
+https://developer.microsoft.com/en-us/graph/docs/concepts/auth_v2_service
+https://apps.dev.microsoft.com/#/application/

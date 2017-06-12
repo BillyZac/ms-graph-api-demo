@@ -1,12 +1,20 @@
 const request = require('superagent')
-require('dotenv').config()
+const getToken = require('./getToken')
 
-request
-  .get('https://graph.microsoft.com/v1.0/me/events?$select=subject,body,bodyPreview,organizer,attendees,start,end,location')
-  .set('Authorization', process.env.BEARER_TOKEN)
-  .end((error, ressponse) => {
-    if (error) {
-      console.log(error)
-    }
-    console.log(ressponse)
+getToken()
+  .then(token => {
+    console.log('Getting with token')
+    console.log(token)
+    const bearerToken = `BEARER_TOKEN=Bearer ${token.access_token}`
+    request
+      .get('https://graph.microsoft.com/v1.0/users/')
+      .set('Authorization', bearerToken)
+      .end((error, response) => {
+        if (error) {
+          throw error
+        }
+        console.log(response.body)
+      })
+
   })
+  .catch(error => console.log(error))
