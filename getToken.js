@@ -1,17 +1,18 @@
 const request = require('superagent')
 require('dotenv').config()
 
+const tokenEndpoint = `https://login.windows.net/${process.env.TENANT_ID}/oauth2/token`
+
 const params = {
   client_id: process.env.CLIENT_ID,
   client_secret: process.env.CLIENT_SECRET,
-  redirect_url: 'http://localhost/8888', // Why is this needed?
-  scope: 'https://graph.microsoft.com/.default',
+  resource: 'https://graph.microsoft.com',
   grant_type: 'client_credentials',
 }
 
 const getToken = () => new Promise(function(resolve, reject) {
   request
-    .post(`https://login.microsoftonline.com/common/oauth2/v2.0/token/`)
+    .post(tokenEndpoint)
     .type('form')
     .send(params)
     .end((error, response) => {
@@ -19,7 +20,7 @@ const getToken = () => new Promise(function(resolve, reject) {
         throw error
       }
       const token = response.body
-      resolve(token)
+      resolve(token.access_token)
     })
 })
 

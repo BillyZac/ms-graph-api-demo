@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "getStuff.js",
   "scripts": {
-    "start": "node getStuff > response"
+    "start": "node server"
   },
   "license": "MIT",
   "dependencies": {

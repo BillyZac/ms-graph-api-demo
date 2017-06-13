@@ -1,0 +1,18 @@
+{
+  "subject": "Zac weirdz blurg",
+  "body": {
+    "Content": "Blurg it.",
+    "ContentType": "Text"
+  },
+  "start": {
+    "dateTime": "2017-06-14T17:33:21.7190000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T18:03:21.7190000",
+    "timeZone": "UTC"
+  },
+  "location": {
+    "displayName": "Star room"
+  }
+}
