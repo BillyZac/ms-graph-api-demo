@@ -1,12 +1,16 @@
 const express = require('express')
 const router = express.Router()
-const getToken = require('../getToken')
-const getUsers = require('../getUsers')
-const getEvents = require('../getEvents')
-const createEvent = require('../createEvent')
-const updateEvent = require('../updateEvent')
-const getEvent = require('../getEvent')
-const deleteEvent = require('../deleteEvent')
+const tokenService = require('../services/token')
+const usersService = require('../services/users')
+const eventsService = require('../services/events')
+
+const getToken = tokenService.getToken
+const getUsers = usersService.getUsers
+const getEvents = eventsService.getEvents
+const createEvent = eventsService.createEvent
+const updateEvent = eventsService.updateEvent
+const getEvent = eventsService.getEvent
+const deleteEvent = eventsService.deleteEvent
 
 router.get('/', (req, res) => {
   getToken().then(token => {
@@ -30,11 +34,12 @@ router.get('/', (req, res) => {
 })
 
 router.post('/', (req, res) => {
+  const userId = req.query.userId
+  const meetingId = req.query.meetingId
   const event = req.body
 
   getToken().then(token => {
-    const BruceId = '7e204238-6f5d-4b6b-afdd-995fb46d12f0'
-    createEvent(token, BruceId, event)
+    createEvent(token, userId, event)
       .then(eventId => {
         res.json({
           id: eventId
@@ -48,19 +53,12 @@ router.post('/', (req, res) => {
 })
 
 router.patch('/', (req, res) => {
-  console.log('Got a patch request')
-  const userEmail = 'aochsner@designitcontoso.onmicrosoft.com'
-  const meetingId = 'AAMkADNiMDRmZjI0LWMxMDQtNDlmYS1hMmNjLWQxZjc4ZGIyYmU5MQBGAAAAAACYlYq7b9zCSrzcCa4YqmdkBwCAHmHuRmT5SIjex6MCuGpQAAAAAAENAACAHmHuRmT5SIjex6MCuGpQAAANL6WMAAA='
-
-  const event = {
-    id: meetingId,
-    subject: 'Hey this event has been updated again.',
-    isCancelled: true,
-  }
+  const userId = req.query.userId
+  const meetingId = req.query.meetingId
+  const event = req.body
 
   getToken().then(token => {
-
-    updateEvent(token, userEmail, meetingId, event)
+    updateEvent(token, userId, meetingId, event)
       .then(response => {
         res.send(response)
       })
@@ -72,13 +70,11 @@ router.patch('/', (req, res) => {
 })
 
 router.delete('/', (req, res) => {
-  console.log('Got a delete request')
-  const userEmail = 'bruce@designitcontoso.onmicrosoft.com'
-  const meetingId = 'AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzLAAA='
+  const userId = req.query.userId
+  const meetingId = req.query.meetingId
 
   getToken().then(token => {
-
-    deleteEvent(token, userEmail, meetingId)
+    deleteEvent(token, userId, meetingId)
       .then(response => {
         res.send(response)
       })

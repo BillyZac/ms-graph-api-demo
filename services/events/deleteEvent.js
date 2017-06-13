@@ -6,7 +6,7 @@ const deleteEvent = (token, userId, meetingId) => new Promise(function(resolve, 
     .set('Authorization', `Bearer ${token}`)
     .end((error, response) => {
       if (error) {
-        throw error
+        reject(error)
       }
       resolve('Deleted the event')
     })

@@ -1,7 +1,10 @@
 const express = require('express')
 const router = express.Router()
-const getToken = require('../getToken')
-const getUsers = require('../getUsers')
+const tokenService = require('../services/token')
+const usersService = require('../services/users')
+
+const getToken = tokenService.getToken
+const getUsers = usersService.getUsers
 
 const handleGetUsers = (req, res) => {
   getToken().then(token => {
