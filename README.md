@@ -47,9 +47,6 @@ Delete an event
 List users
 http://localhost:8888/users
 
-List rooms
-http://localhost:8888/rooms
-
 
 ## Resources
 This tutorial was really helpful:

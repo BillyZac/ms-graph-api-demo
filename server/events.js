@@ -14,22 +14,17 @@ const deleteEvent = eventsService.deleteEvent
 
 router.get('/', (req, res) => {
   getToken().then(token => {
-    getUsers(token)
-      .then(response => {
-        const humanUsers = response.value.filter(user => user.givenName != null)
-        return humanUsers
-      })
-      .then(users => {
-        Promise.all(users.map(user => (
-          getEvents(token, user.id).then(response => response)
-        ))).then(eventsOuterArray => {
-          const events = []
-          eventsOuterArray.forEach(eventsInnerArray => {
-            eventsInnerArray.forEach(event => events.push(event))
-          })
-          res.json(events)
+    getUsers(token).then(users => {
+      Promise.all(users.map(user => (
+        getEvents(token, user.id).then(response => response)
+      ))).then(eventsOuterArray => {
+        const events = []
+        eventsOuterArray.forEach(eventsInnerArray => {
+          eventsInnerArray.forEach(event => events.push(event))
         })
+        res.json(events)
       })
+    })
   })
 })
 
