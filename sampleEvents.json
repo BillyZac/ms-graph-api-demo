@@ -1,0 +1,1189 @@
+[{
+  "id": "AAMkADNiMDRmZjI0LWMxMDQtNDlmYS1hMmNjLWQxZjc4ZGIyYmU5MQBGAAAAAACYlYq7b9zCSrzcCa4YqmdkBwCAHmHuRmT5SIjex6MCuGpQAAAAAAENAACAHmHuRmT5SIjex6MCuGpQAAANL6WLAAA=",
+  "subject": "Shurg blurgee",
+  "start": {
+    "dateTime": "2017-06-14T17:32:24.1840000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T18:02:24.1840000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Star room"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Ochsner",
+      "address": "aochsner@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADNiMDRmZjI0LWMxMDQtNDlmYS1hMmNjLWQxZjc4ZGIyYmU5MQBGAAAAAACYlYq7b9zCSrzcCa4YqmdkBwCAHmHuRmT5SIjex6MCuGpQAAAAAAENAACAHmHuRmT5SIjex6MCuGpQAAANL6WKAAA=",
+  "subject": "Zac weirdz blurg",
+  "start": {
+    "dateTime": "2017-06-14T17:31:30.6390000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T18:01:30.6390000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Star room"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Ochsner",
+      "address": "aochsner@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADNiMDRmZjI0LWMxMDQtNDlmYS1hMmNjLWQxZjc4ZGIyYmU5MQBGAAAAAACYlYq7b9zCSrzcCa4YqmdkBwCAHmHuRmT5SIjex6MCuGpQAAAAAAENAACAHmHuRmT5SIjex6MCuGpQAAANL6WJAAA=",
+  "subject": "Zac weirdz blurg",
+  "start": {
+    "dateTime": "2017-06-14T17:28:54.4310000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T17:58:54.4310000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Star room"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Ochsner",
+      "address": "aochsner@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADNiMDRmZjI0LWMxMDQtNDlmYS1hMmNjLWQxZjc4ZGIyYmU5MQBGAAAAAACYlYq7b9zCSrzcCa4YqmdkBwCAHmHuRmT5SIjex6MCuGpQAAAAAAENAACAHmHuRmT5SIjex6MCuGpQAAANL6WIAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1870000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1870000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Ochsner",
+      "address": "aochsner@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADFhMTU4Yjg3LTJkMDctNDBkOS1hYTNjLThmNjlmY2YxM2NhMwBGAAAAAACH9T9qW96aQq09kmo264UIBwDXnVyyOVeARKx7Dd9ogVPMAAAAAAENAADXnVyyOVeARKx7Dd9ogVPMAAADnQ_kAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1880000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1880000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Barbra Streisand",
+      "address": "babs@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADFjYWIwN2YwLTljMDEtNDU1Mi1hMmEzLWJlY2E0NDUyODM5YQBGAAAAAADEFL7SIX72Q5GcZjidn8fRBwCfPN0fqvtZTaQdy8ORbUemAAAAAAENAACfPN0fqvtZTaQdy8ORbUemAAAIz4y_AAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-14T17:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T17:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Black",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADFjYWIwN2YwLTljMDEtNDU1Mi1hMmEzLWJlY2E0NDUyODM5YQBGAAAAAADEFL7SIX72Q5GcZjidn8fRBwCfPN0fqvtZTaQdy8ORbUemAAAAAAENAACfPN0fqvtZTaQdy8ORbUemAAAIc2UtAAA=",
+  "subject": "Entitled Black Room Meeting",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1890000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1890000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Black",
+      "address": "black-room@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGQ5ZTliZmI1LTljNzUtNDIwMC05MGZlLWMzYWMzOWU2ODk3ZQBGAAAAAAASK3WGz-o2QpIvO24ODWRCBwBQRST8EexfT6rterQviiYTAAAAAAENAABQRST8EexfT6rterQviiYTAAAI4vGCAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-14T18:00:20.4870000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T19:00:20.4870000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Blue"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Blue",
+      "address": "blue-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGQ5ZTliZmI1LTljNzUtNDIwMC05MGZlLWMzYWMzOWU2ODk3ZQBGAAAAAAASK3WGz-o2QpIvO24ODWRCBwBQRST8EexfT6rterQviiYTAAAAAAENAABQRST8EexfT6rterQviiYTAAAHBKyWAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1890000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1890000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Blue",
+      "address": "blue-room@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGQ5ZTliZmI1LTljNzUtNDIwMC05MGZlLWMzYWMzOWU2ODk3ZQBGAAAAAAASK3WGz-o2QpIvO24ODWRCBwBQRST8EexfT6rterQviiYTAAAAAAENAABQRST8EexfT6rterQviiYTAAAEZT7EAAA=",
+  "subject": "Andrew Tuliszewski ",
+  "start": {
+    "dateTime": "2017-06-08T00:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-08T00:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Blue",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Andrew Tuliszewski",
+      "address": "defpearlpilot@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Tuliszewski",
+      "address": "defpearlpilot@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzaAAA=",
+  "subject": "Created with superagent",
+  "start": {
+    "dateTime": "2017-06-14T18:00:20.4870000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T19:00:20.4870000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Blue"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "2017-06-14T13:57:57.8544455Z"
+    },
+    "emailAddress": {
+      "name": "Blue",
+      "address": "blue-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzZAAA=",
+  "subject": "Created in Outlook",
+  "start": {
+    "dateTime": "2017-06-14T17:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T17:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Black",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "resource",
+    "status": {
+      "response": "accepted",
+      "time": "2017-06-14T13:45:08.8981385Z"
+    },
+    "emailAddress": {
+      "name": "Black",
+      "address": "black-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzYAAA=",
+  "subject": "andrew booking",
+  "start": {
+    "dateTime": "2017-06-14T16:00:13.1700000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T17:00:13.1700000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "2017-06-14T13:35:59.1051878Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzSAAA=",
+  "subject": "test",
+  "start": {
+    "dateTime": "2017-06-13T15:00:46.8290000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-13T16:00:46.8290000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Black"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "declined",
+      "time": "2017-06-14T12:43:03.13948Z"
+    },
+    "emailAddress": {
+      "name": "Black",
+      "address": "black-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzNAAA=",
+  "subject": "test",
+  "start": {
+    "dateTime": "2017-06-13T21:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-13T21:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "",
+    "address": {}
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzHAAA=",
+  "subject": "Blurg shurg",
+  "start": {
+    "dateTime": "2017-06-14T18:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T19:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "",
+    "address": {}
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzFAAA=",
+  "subject": "Zac weirdz blurg",
+  "start": {
+    "dateTime": "2017-06-14T17:33:21.7190000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T18:03:21.7190000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Star room"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAJvpzCAAA=",
+  "subject": "Modified subject",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1890000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1890000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAIxUNtAAA=",
+  "subject": "helper made!!",
+  "start": {
+    "dateTime": "2017-07-10T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-10T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "declined",
+      "time": "2017-06-12T16:41:14.4925937Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADEyZWVmODI5LTQxYmYtNDI0MS1hZWFjLTYxZjc1ZDQ4ZmQwNwBGAAAAAACNcZxZz2UxT6DuSC4yUmLIBwCoURkswYJCTa2oEbGxtmg3AAAAAAENAACoURkswYJCTa2oEbGxtmg3AAAIxUNsAAA=",
+  "subject": "helper made!!",
+  "start": {
+    "dateTime": "2017-07-13T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-13T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "declined",
+      "time": "2017-06-12T12:34:33.028162Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGFmNDRhOGVmLWE4ZGItNDY4ZS1iODg4LTQ0MDVkNzYzOWEwOABGAAAAAAA3Z2bacYNeTJqkFeEbB69MBwAEGd17IFBoSpIyNv6shqvNAAAAAAENAAAEGd17IFBoSpIyNv6shqvNAAAIBnoHAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1900000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1900000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Tuliszewski",
+      "address": "defpearlpilot@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGFmNDRhOGVmLWE4ZGItNDY4ZS1iODg4LTQ0MDVkNzYzOWEwOABGAAAAAAA3Z2bacYNeTJqkFeEbB69MBwAEGd17IFBoSpIyNv6shqvNAAAAAAENAAAEGd17IFBoSpIyNv6shqvNAAAFP7mHAAA=",
+  "subject": "test",
+  "start": {
+    "dateTime": "2017-06-08T00:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-08T00:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Blue",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "resource",
+    "status": {
+      "response": "accepted",
+      "time": "2017-06-07T23:08:44.976238Z"
+    },
+    "emailAddress": {
+      "name": "Blue",
+      "address": "blue-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Andrew Tuliszewski",
+      "address": "defpearlpilot@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADkzNGM1MWI2LTlhZDktNGNhNy05NmY2LTY1NTcwYjdiODRmMgBGAAAAAAB2gJdtFsSHTJi57bck2xFeBwCLcKjoZ1OURZugbovMRKYVAAAAAAENAACLcKjoZ1OURZugbovMRKYVAAAIG0VtAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1900000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1900000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Green",
+      "address": "green-room@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADkzNGM1MWI2LTlhZDktNGNhNy05NmY2LTY1NTcwYjdiODRmMgBGAAAAAAB2gJdtFsSHTJi57bck2xFeBwCLcKjoZ1OURZugbovMRKYVAAAAAAENAACLcKjoZ1OURZugbovMRKYVAAAGd2lwAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-10T14:00:32.1950000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-10T15:00:32.1950000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Green"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Green",
+      "address": "green-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg3Mzg0Zjg0LWMxMDctNDBmNS04ZWNjLTJiYzI2MWE0NTNjZABGAAAAAACIQ8MG8wqCRJdgHC8ZFefkBwAPEibMAhCNTYAjX5Lv1oQiAAAAAAENAAAPEibMAhCNTYAjX5Lv1oQiAAAG3usLAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1900000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1900000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Billy Joel",
+      "address": "pianoman@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg3Mzg0Zjg0LWMxMDctNDBmNS04ZWNjLTJiYzI2MWE0NTNjZABGAAAAAACIQ8MG8wqCRJdgHC8ZFefkBwAPEibMAhCNTYAjX5Lv1oQiAAAAAAENAAAPEibMAhCNTYAjX5Lv1oQiAAAE9kyiAAA=",
+  "subject": "contoso",
+  "start": {
+    "dateTime": "2017-06-09T14:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-09T14:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "resource",
+    "status": {
+      "response": "accepted",
+      "time": "2017-06-09T13:50:28.5848527Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Billy Joel",
+      "address": "pianoman@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAIdFxwAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-14T16:00:13.1700000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T17:00:13.1700000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAIdFxkAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1900000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1900000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0xAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-10T14:00:29.2680000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-10T15:00:29.2680000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0vAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-07-07T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-07T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0uAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-07-03T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-03T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0tAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-07-11T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-11T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0sAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-07-09T04:01:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-07-09T04:11:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red"
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "accepted",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Red",
+      "address": "red-room@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAFv_0nAAA=",
+  "subject": "Billy Joel ",
+  "start": {
+    "dateTime": "2017-06-09T14:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-09T14:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Billy Joel",
+      "address": "pianoman@designitcontoso.onmicrosoft.com"
+    }
+  }, {
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Billy Joel",
+      "address": "pianoman@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADg0YmVmZjYwLTk3YjQtNDNjMy1iMzJmLThhNTQ3MWVjNjRlMwBGAAAAAACm2ulHkNfISp0ApeUIJ4GeBwAHkOwNc-Q9S4yzX9CXSMIDAAAAAAENAAAHkOwNc-Q9S4yzX9CXSMIDAAAEJ6ghAAA=",
+  "subject": "Bruce Springsteen ",
+  "start": {
+    "dateTime": "2017-06-07T23:30:00.0000000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-08T00:00:00.0000000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Red",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "countryOrRegion": "",
+      "postalCode": ""
+    }
+  },
+  "attendees": [{
+    "type": "required",
+    "status": {
+      "response": "none",
+      "time": "0001-01-01T00:00:00Z"
+    },
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }],
+  "organizer": {
+    "emailAddress": {
+      "name": "Bruce Springsteen",
+      "address": "bruce@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGNlMzZiMjUxLWNlZWMtNGY3ZS1hNTlhLWU3NWZiZmUyNTMwNwBGAAAAAAC2OQBJXXKHQbSWrLL2fpHsBwCPbiPi-lGwSb_b3O24KFTXAAAAAAENAACPbiPi-lGwSb_b3O24KFTXAAACYOG9AAA=",
+  "subject": "My event",
+  "start": {
+    "dateTime": "2017-06-13T14:52:29.8540000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-20T14:52:29.8540000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "",
+    "address": {}
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Root Admin",
+      "address": "roodmin@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkAGNlMzZiMjUxLWNlZWMtNGY3ZS1hNTlhLWU3NWZiZmUyNTMwNwBGAAAAAAC2OQBJXXKHQbSWrLL2fpHsBwCPbiPi-lGwSb_b3O24KFTXAAAAAAENAACPbiPi-lGwSb_b3O24KFTXAAACYOG8AAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1900000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1900000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "Root Admin",
+      "address": "roodmin@designitcontoso.onmicrosoft.com"
+    }
+  }
+}, {
+  "id": "AAMkADY3YTVhYTkwLTI4MjYtNDhmYS1iMzVhLWNmMzIxODFkMDAxYgBGAAAAAAD-xE-VHYp7Tb_VzJRvnOXsBwDcOYuhoIs-Rr_fgvW9FsfYAAAAAAENAADcOYuhoIs-Rr_fgvW9FsfYAAAHj13rAAA=",
+  "subject": "Microsoft Graph API discussion",
+  "start": {
+    "dateTime": "2017-06-14T14:11:46.1910000",
+    "timeZone": "UTC"
+  },
+  "end": {
+    "dateTime": "2017-06-14T14:41:46.1910000",
+    "timeZone": "UTC"
+  },
+  "isCancelled": false,
+  "location": {
+    "displayName": "Joe's office"
+  },
+  "attendees": [],
+  "organizer": {
+    "emailAddress": {
+      "name": "White",
+      "address": "white-room@designitcontoso.onmicrosoft.com"
+    }
+  }
+}]

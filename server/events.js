@@ -1,5 +1,7 @@
 const express = require('express')
 const router = express.Router()
+const handleResponse = require('./utils/handleResponse')
+
 const tokenService = require('../services/token')
 const usersService = require('../services/users')
 const eventsService = require('../services/events')
@@ -13,19 +15,7 @@ const getEvent = eventsService.getEvent
 const deleteEvent = eventsService.deleteEvent
 
 router.get('/', (req, res) => {
-  getToken().then(token => {
-    getUsers(token).then(users => {
-      Promise.all(users.map(user => (
-        getEvents(token, user.id).then(response => response)
-      ))).then(eventsOuterArray => {
-        const events = []
-        eventsOuterArray.forEach(eventsInnerArray => {
-          eventsInnerArray.forEach(event => events.push(event))
-        })
-        res.json(events)
-      })
-    })
-  })
+  handleResponse(getEvents, res)
 })
 
 router.post('/', (req, res) => {

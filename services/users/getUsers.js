@@ -7,6 +7,7 @@ const getUsers = token => new Promise((resolve, reject) => {
     .end((error, response) => {
       if (error) {
         reject(error)
+        return 
       }
       const users = response.body.value
       resolve(users)

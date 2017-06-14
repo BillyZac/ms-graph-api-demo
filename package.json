@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "getStuff.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "cache": "node cache"
   },
   "license": "MIT",
   "dependencies": {

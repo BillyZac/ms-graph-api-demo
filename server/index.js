@@ -2,11 +2,12 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const users = require('./users')
 const events = require('./events')
-
+const logger = require('./utils/logger')
 const app = express()
 const PORT = 8888
 
 app.use(bodyParser.json())
+app.use(logger)
 
 app.use('/users', users)
 app.use('/events', events)

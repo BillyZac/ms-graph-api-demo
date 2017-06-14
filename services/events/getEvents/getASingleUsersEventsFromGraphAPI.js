@@ -1,12 +1,13 @@
 const request = require('superagent')
 
-const getEvents = (token, userId) => new Promise((resolve, reject) => {
+const getASingleUsersEventsFromGraphAPI = (token, userId) => new Promise((resolve, reject) => {
   request
     .get('https://graph.microsoft.com/v1.0/users/' + userId + '/events')
     .set('Authorization', `Bearer ${token}`)
     .end((error, response) => {
       if (error) {
         reject(error)
+        return
       }
       const events = response.body.value.map(event => {
         return ({
@@ -24,4 +25,4 @@ const getEvents = (token, userId) => new Promise((resolve, reject) => {
     })
 })
 
-module.exports = getEvents
+module.exports = getASingleUsersEventsFromGraphAPI
