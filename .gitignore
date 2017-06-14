@@ -1,3 +1,5 @@
 node_modules/
 .env
 response*
+cache/datastore/*.json
+cache/datastore/timestamp
